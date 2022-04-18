@@ -3,7 +3,7 @@ Hi, this is the official Github account for GENISAMA LLC, an artificial intellig
 
 Curious about what we do and who we are?
 - Learn about us at genisama.com
-- You can find contact information there!
+- ^ You can find contact information there!
 
 <!---
 GENISAMAofficial/GENISAMAofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
